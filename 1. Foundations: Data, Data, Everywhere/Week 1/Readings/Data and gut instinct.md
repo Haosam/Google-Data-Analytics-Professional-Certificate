@@ -19,5 +19,6 @@ Successful analysis needs to be accurate, and fast enough to help decision-maker
 - Who will be informed?
 - Am I answering the question being asked?
 - How quickly does a decision need to be made?
+##### Example
 For example, if you are working on a rush project, you might need to rely on your own knowledge and experience more than usual. There just isn’t enough time to thoroughly analyze all of the available data. But if you get a project that involves plenty of time and resources, then the best strategy would be to be more data-driven. It’s up to you, the data analyst, to think about the situation and make the best possible choice. You will probably blend facts and knowledge a million different ways over the course of your data analytics career. And the more you practice, the better you will get at finding that perfect blend. 
 
